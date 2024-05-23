@@ -1,0 +1,33 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+.row{
+    display: flex;
+}
+
+.col{
+    flex: 1;
+    color: aliceblue;
+    background-color: #FF8C42;
+    padding: 10px;
+    margin: 20px;
+
+}
+
+.col-2{
+    flex: 2;
+    color: aliceblue;
+    background-color: #FF8C42;
+    padding: 10px;
+    margin: 20px;
+    
+}
+
+.col-3{
+    flex: 3;
+    color: aliceblue;
+    background-color: #FF8C42;
+    padding: 10px;
+    margin: 20px;
+}
